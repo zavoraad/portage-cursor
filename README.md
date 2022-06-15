@@ -1,2 +1,3 @@
 # portage-cursor
-Replicate the portgage package management cursor 
+Replicate the [portage package management] (https://wiki.gentoo.org/wiki/Portage) cursor 
+
